@@ -1,0 +1,26 @@
+p {
+    color: blue;
+    text-align: center;
+}
+
+.fondo-celeste {
+    background: #b2fef9;
+}
+
+.negrita {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.color-azul {
+    color: #233697;
+}
+
+#itemSuper {
+    color: orange;
+    text-transform: uppercase;
+}
+
+ol li::marker {
+    color: red;
+}
