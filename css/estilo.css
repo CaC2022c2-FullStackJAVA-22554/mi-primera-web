@@ -1,3 +1,7 @@
+img {
+    display: inline-block;
+}
+
 p {
     color: blue;
     text-align: center;
@@ -5,6 +9,24 @@ p {
 
 .fondo-celeste {
     background: #b2fef9;
+}
+
+.caja {
+    background-color: yellow;
+    font-size: 30px;
+}
+
+html {
+    /* Valor por default: 16px*/
+    font-size: 20px;
+}
+
+.otro-tamanio {
+    font-size: 1rem;
+}
+
+.titulo {
+    font-size: 2em;
 }
 
 .negrita {
