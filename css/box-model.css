@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.lista {
+    background:rgb(63, 82, 117)
+}
+
+.fondo-azul {
+    background: rgb(39, 53, 79);
+    color: white;
+    border: 10px solid rgb(97, 117, 155);
+    padding: 10px;
+    margin: 10px;
+}
+
+.foto-receta {
+    width: 100%;
+}
+
+a {
+    color: cyan;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
