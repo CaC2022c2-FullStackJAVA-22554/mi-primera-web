@@ -4,13 +4,17 @@
     box-sizing: border-box;
 }
 
+.ingredientes,
+.pasos {
+    float: left;
+    width: 50%;
+    background: rgb(62, 62, 22);
+}
+
 .negrita {
     font-weight: bold;
 }
 
-.lista {
-    background:rgb(63, 82, 117)
-}
 
 .fondo-azul {
     background: rgb(39, 53, 79);
@@ -28,6 +32,11 @@ a {
     color: cyan;
 }
 
-ul, ol {
+ul,
+ol {
     list-style-position: inside;
+}
+
+.clearfix {
+    overflow: auto;
 }
